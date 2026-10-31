@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (TADS) na UERJ.
   
  Atualmente estudando desenvolvimento back-end/full-stack  
  Trabalhando com Python (Flask), JavaScript, MySQL e Git  
- Contato: [LinkedIn](https://www.linkedin.com/in/cauã-baldi-030b79249?utm_source=share_via&utm_content=profile&utm_medium=member_ios) • baldicaua@gmail.com  
+ Contato: [LinkedIn](https://www.linkedin.com/in/cauã-baldi-030b79249?utm_source=share_via&utm_content=profile&utm_medium=member_ios) • baldicaua20@gmail.com  
 
 Tecnologias:  
 ![Python](https://img.shields.io/badge/-Python-333?logo=python)  
